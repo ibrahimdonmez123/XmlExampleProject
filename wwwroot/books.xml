@@ -1,0 +1,12 @@
+﻿<Books>
+	<Book Id="1">
+		<Title>Kitap 1</Title>
+		<Author>Yazar 1</Author>
+		<Year>2022</Year>
+	</Book>
+	<Book Id="2">
+		<Title>Örnek kitap 2</Title>
+		<Author>Örnek yazar 2</Author>
+		<Year>2013</Year>
+	</Book>
+</Books>
